@@ -1,0 +1,9 @@
+{
+  "name": "Aryan - AI Human Assistant",
+  "description": "A human-like AI voice assistant fluent in Hindi and Urdu, capable of performing browser-based and device-aware tasks with vision and wake-word support.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation",
+    "camera"
+  ]
+}
